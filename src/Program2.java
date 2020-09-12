@@ -5,7 +5,7 @@ public class Program2 {
 		
 		int array [] = {3, 7, 15, 25, 13};
 		int resp = mayor(array, 1, array[0]);
-		System.out.println("El elemento mayor del array es "+resp);
+		System.out.println("El elemento mayor  del array es "+resp);
 
 	}
 	
